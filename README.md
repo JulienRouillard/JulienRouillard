@@ -59,7 +59,7 @@ Behavioral analysis of 8,378 romantic encounters revealing systematic gaps betwe
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-rouillard-a738a33a9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-rouillard-a738a33a9/)  
 📧 julien.rouillard@yahoo.fr
 
 💼 Open to opportunities  
