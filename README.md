@@ -22,37 +22,37 @@ Airflow • Web Scraping • API Integration • ETL Pipelines
 ## 🚀 Featured Projects
 
 ### 🤖 [AI Content Detector](https://github.com/JulienRouillard/ai-content-detector)
-Binary classifier detecting AI-generated text with **97.1% recall** using 43 engineered linguistic features and XGBoost. Deployed as production API with MLflow tracking, FastAPI endpoints, and Streamlit interface.  
+Automated detection system for AI-generated content. Achieved **97.1% detection rate** using linguistic pattern analysis with 43 engineered features.
 `Feature Engineering` • `XGBoost` • `NLP` • `MLflow` • `FastAPI` • `AWS S3`
 
 ---
 
 ### 🚗 [GetAround MLOps Pipeline](https://github.com/JulienRouillard/getaround-mlops-pipeline)
-End-to-end ML system with **3 deployed applications**: pricing prediction API, delay analysis dashboard, and MLflow experiment tracking. Full production infrastructure with Docker containers, PostgreSQL backend, and S3 artifact storage.  
+Complete ML solution for car rental platform optimization: pricing predictions and checkout delay analysis. Delivered data-driven policy recommendations (30-60 min threshold) projected to reduce friction for 1% of affected rentals. **3 live applications** deployed with production infrastructure.
 `MLOps` • `FastAPI` • `Streamlit` • `Docker` • `AWS` • `HuggingFace Spaces`
 
 ---
 
 ### 🗺️ [Uber Pickups Hot Zones Detection](https://github.com/JulienRouillard/uber-pickups-hot-zones-detection)
-Unsupervised clustering solution identifying optimal driver positioning zones in NYC. Compared KMeans vs DBSCAN algorithms, generated **168 time-sliced hot-zone maps** (7 days × 24 hours) using automatic epsilon tuning via k-distance method.  
+Driver positioning optimization system reducing wait times in NYC. Analyzed 6 months of pickup data to generate **168 strategic positioning maps** (hourly recommendations across the week). Algorithm comparison validated DBSCAN superiority for geospatial clustering with automatic parameter tuning.
 `DBSCAN` • `Geospatial Analysis` • `Algorithm Comparison` • `Unsupervised Learning`
 
 ---
 
 ### ✈️ [Multi-Stage ETL Pipeline](https://github.com/JulienRouillard/Multi-Stage-ETL-Pipeline)
-Iterative data pipeline orchestrating API calls (OpenWeatherMap, Nominatim), targeted web scraping (Booking.com), and cloud storage (AWS S3 + RDS MySQL). Implements weighted scoring algorithm to rank French travel destinations.  
+Automated travel recommendation system combining weather forecasts and hotel availability. Multi-stage pipeline processes API data and web scraping to deliver ranked destination recommendations with interactive visualizations. Cloud-based architecture with AWS S3 data lake and RDS MySQL storage.   
 `Data Engineering` • `AWS` • `Web Scraping` • `API Integration` • `ETL`
 
 ---
 
 ### 💬 [AT&T Spam Detector](https://github.com/JulienRouillard/spam_detector)
-Deep Learning SMS classifier comparing custom LSTM architectures vs BERT fine-tuning. Achieved **99.19% accuracy** through systematic hyperparameter optimization (GridSearchCV). Production-grade model selection based on precision-recall trade-offs.  
+SMS spam detection system protecting users from unsolicited messages. Compared Deep Learning approaches (custom LSTM vs BERT fine-tuning) achieving **99.19% accuracy**. Model selection optimized for precision-recall trade-offs.  
 `Deep Learning` • `BERT` • `PyTorch` • `Hyperparameter Tuning` • `NLP`
 
 ---
 
 ### 💘 [Speed Dating Analysis](https://github.com/JulienRouillard/speed-dating-analysis)
-Statistical analysis of 8,378 speed dating encounters revealing gaps between stated preferences and actual behavior. Logistic regression with standardized coefficients shows shared interests have **58x more impact** than demographic factors. Includes hypothesis testing and effect size quantification.  
+Behavioral analysis of 8,378 romantic encounters revealing systematic gaps between stated preferences and actual decisions. Statistical modeling demonstrates **shared interests drive 58x more matches** than demographic similarities, with quantified insights on self-assessment biases (+1 point overestimation across attributes).
 `Statistical Inference` • `Logistic Regression` • `Hypothesis Testing` • `EDA`
 
 ---
@@ -60,7 +60,7 @@ Statistical analysis of 8,378 speed dating encounters revealing gaps between sta
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-rouillard-a738a33a9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julien.rouillard@yahoo.fr)
+📧 julien.rouillard@yahoo.fr
 
 💼 Open to opportunities  
 📍 Based in **France** • Remote-friendly
