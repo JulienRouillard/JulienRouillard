@@ -9,7 +9,7 @@ CDSD certified building production ML systems. I ship complete workflows from ex
 ## 🛠️ Tech Stack
 
 **Machine Learning & Data Science**  
-Python • Scikit-learn • XGBoost • TensorFlow • PyTorch • Pandas • Matplotlib
+Python • Scikit-learn • XGBoost • PyTorch • Pandas • Matplotlib
 
 **MLOps & Production**  
 MLflow • Docker • FastAPI • Streamlit • AWS (S3, RDS) • PostgreSQL • CI/CD
